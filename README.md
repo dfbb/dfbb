@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dfbb
 - 👀 I’m interested in game/hacking
-- 🌱 I’m currently learning DL
+- 🌱 I’m currently learning ai coding
 - 📫 How to reach me ? no need
